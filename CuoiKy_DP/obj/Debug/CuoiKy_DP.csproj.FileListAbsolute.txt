@@ -1,0 +1,11 @@
+D:\CuoiKyDP\CuoiKy_DP\CuoiKy_DP\bin\Debug\CuoiKy_DP.exe.config
+D:\CuoiKyDP\CuoiKy_DP\CuoiKy_DP\bin\Debug\CuoiKy_DP.exe
+D:\CuoiKyDP\CuoiKy_DP\CuoiKy_DP\bin\Debug\CuoiKy_DP.pdb
+D:\CuoiKyDP\CuoiKy_DP\CuoiKy_DP\obj\Debug\CuoiKy_DP.csproj.AssemblyReference.cache
+D:\CuoiKyDP\CuoiKy_DP\CuoiKy_DP\obj\Debug\CuoiKy_DP.csproj.SuggestedBindingRedirects.cache
+D:\CuoiKyDP\CuoiKy_DP\CuoiKy_DP\obj\Debug\CuoiKy_DP.Properties.Resources.resources
+D:\CuoiKyDP\CuoiKy_DP\CuoiKy_DP\obj\Debug\CuoiKy_DP.csproj.GenerateResource.cache
+D:\CuoiKyDP\CuoiKy_DP\CuoiKy_DP\obj\Debug\CuoiKy_DP.csproj.CoreCompileInputs.cache
+D:\CuoiKyDP\CuoiKy_DP\CuoiKy_DP\obj\Debug\CuoiKy_DP.exe
+D:\CuoiKyDP\CuoiKy_DP\CuoiKy_DP\obj\Debug\CuoiKy_DP.pdb
+D:\CuoiKyDP\CuoiKy_DP\CuoiKy_DP\obj\Debug\CuoiKy_DP.Form1.resources
